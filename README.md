@@ -1,6 +1,7 @@
 # COMP1127_Project
-Contributors to Project: Brandon Hall,Giovanne Pinto
- The purpose of the program is to create a customer service system which handles vehicle servicing for a generic car dealership.
+**Contributors to Project**: Brandon Hall,Giovanne Pinto
+
+The purpose of the program is to create a customer service system which handles vehicle servicing for a generic car dealership.
  
 This program has the ability to create a customer register to store  customer's personal and vehicle information for servicing 
 
